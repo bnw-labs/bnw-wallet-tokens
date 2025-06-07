@@ -38,7 +38,7 @@
     {
       "chainId": 714,
       "address": "0x0000000000000000000000000000000000000001",
-      "name": "BNW",
+      "name": "BlockchainNW",
       "symbol": "BNW",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/bnw-labs/bnw-wallet-tokens/main/networks/bnw/bnw.png",
